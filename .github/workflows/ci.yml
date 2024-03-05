@@ -3,7 +3,7 @@ name: Docker Compose Build and Run
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
